@@ -1,0 +1,4 @@
+git clone https://github.com/rajjeet/react-playbook
+cd react-playbook/packages/react-basic
+npm install
+npm start
